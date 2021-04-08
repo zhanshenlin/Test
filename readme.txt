@@ -5,3 +5,5 @@ mybatis接口
 今天搞Git创建合并，解决合并冲突，在eclipse使用git
 
 在dev分支上修改，等会合并到master分支，然后我要解决冲突
+
+在bus上添加内容。
